@@ -1,0 +1,166 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    
+}
+
+  .help{
+    background-image: url(donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+     text-align: center;
+     height: 400px;
+     color: white;
+   
+   
+  }
+    .button{  text-align: center;
+    text-decoration:none ;
+    top:30%;
+    color: whitesmoke;
+    background-color:orangered;
+    height: 50px;
+    width: 160px;
+    border-radius: 5px;
+     
+     
+  } 
+  .donate{
+    margin-top: 6%;
+    line-height: 20px;
+    text-align: center;
+    
+  }
+  
+  
+  .taka{
+    display: flex;
+    justify-content: center;
+  }
+  
+   .taka .box{
+    background-color:whitesmoke;
+    margin-left: 20px;
+    padding: 30px 25px;
+  }
+  .taka h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: centar;
+  }
+  .takaa-color{
+    background-color: #ffcccc;
+    border: 2px solid #ff5959;
+  }
+  .amount{
+      
+    border-bottom: 2px solid #ffcccc;
+    text-align: center;   
+    text-decoration: none; 
+  }
+ .ammount {
+  text-align: center;
+ 
+  margin-top: 5px;
+  margin-left:41%;
+ 
+  background-color:orangered;
+  height: 34px;
+  width: 160px;
+  border-radius: 5px;
+ 
+ } 
+ .donate-now{
+  text-decoration: none;
+  color: whitesmoke;
+ }
+ .para{
+ color:rgba(23, 42, 44, 0.851) ; 
+ }
+ .card-container{
+  display: flex;
+  margin-bottom: 41px;
+  justify-content: space-between;
+  font-size: 15px;
+  height: 50%;
+  
+  
+  
+ }
+ .card1{
+  background: rgba(79 , 157, 166 ,0.1);
+  width: 80%;
+  margin-left: 9px;
+  margin-right:9px;
+ }
+ .card2{
+  background:rgba(255,89,89,0.1) ;
+  margin-left: 9px;
+  margin-right: 9px;
+ }
+ .card3{
+  background: #FFF4D6;
+  margin-left: 9px;
+  margin-right: 9px;
+ }
+
+ .section2{
+  display: flex;
+  font-size: 15px;
+  justify-content: space-between;
+  float: inherit;
+  
+ }
+ .survive {
+  width: 60%;
+  padding:4%;
+ }
+ .contribute-button{
+  background-color:tomato; 
+  text-decoration: none;
+  background-image: linear-gradient(45deg lightsalmon, tomato);
+  padding: 12px 40px  ;
+  color:white;
+  font-weight:700px ;
+  
+  border-radius: 5px;
+ }
+ .update{
+  text-align: center;
+ }
+ .div{
+  background:#9d750798 ;
+  width: 400px;
+  margin-left:35%;
+  margin-right: 50%;
+  font-size: 26px;
+ 
+ 
+ }
+ .subscribe{
+  color: orangered;
+  
+  width: 300px;
+  
+ }
+ .humble{ 
+  text-align: center;
+  font-size: 30px;
+  background: #000;
+  font-style:oblique ;
+ }
+ .humble h3{
+  color:orangered;
+ }
+ footer{
+  color: white;
+  font-size: 15px;
+  font-style: normal;
+ }
+ 
+ 
+
+ 
+  
+
